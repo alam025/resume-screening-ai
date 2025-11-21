@@ -1,268 +1,252 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=300&section=header&text=RESUME%20SCREENER&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20POWERED%20TALENT%20MATCHING&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=AI%20RESUME%20SCREENER&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=900&lines=Find+Perfect+Candidates+in+Seconds+%F0%9F%9A%80;95%25+Match+Accuracy+%F0%9F%8E%AF;Save+100+Hours+Per+Month+%E2%8F%B1%EF%B8%8F;AI+That+Actually+Works+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=900&lines=Screen+500+Resumes+in+10+Seconds+%E2%9A%A1;95%25+Match+Accuracy+%F0%9F%8E%AF;Save+100+Hours+Monthly+%E2%8F%B1%EF%B8%8F;AI+Powered+Talent+Discovery+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br>
+<br/>
 
-<table>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/96/brain.png" width="60"/><br><b>Smart AI</b></td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/><br><b>10x Faster</b></td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/target.png" width="60"/><br><b>95% Accurate</b></td>
-<td align="center"><img src="https://img.icons8.com/fluency/96/money-bag.png" width="60"/><br><b>Cost Effective</b></td>
-</tr>
-</table>
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
+[![ML](https://img.shields.io/badge/Machine_Learning-667EEA?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![NLP](https://img.shields.io/badge/NLP-764BA2?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-<br>
+<br/>
 
-[![Python](https://img.shields.io/badge/Python-667EEA?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![NLP](https://img.shields.io/badge/NLP-764BA2?style=for-the-badge&logo=dialogflow&logoColor=white)](https://spacy.io)
-[![ML](https://img.shields.io/badge/Machine_Learning-F093FB?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/License-MIT-667EEA?style=for-the-badge)](LICENSE)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
-## 💼 THE HIRING NIGHTMARE
+<div align="center">
+
+## 💥 THE PROBLEM 💥
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
 
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="200"/>
-<h3>📚 Resume Overload</h3>
-<b>500+</b> resumes per job posting
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150"/><br/><br/>
+<img src="https://img.shields.io/badge/500+-RESUMES_PER_JOB-667EEA?style=for-the-badge&labelColor=000000"/>
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="200"/>
-<h3>⏰ Time Drain</h3>
-<b>23 hours</b> to screen manually
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="150"/><br/><br/>
+<img src="https://img.shields.io/badge/23_HOURS-WASTED_WEEKLY-764BA2?style=for-the-badge&labelColor=000000"/>
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/3o7TKAXkWwJBawSsfu/giphy.gif" width="200"/>
-<h3>🎯 Miss Talent</h3>
-<b>Best candidates</b> buried deep
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150"/><br/><br/>
+<img src="https://img.shields.io/badge/BEST_TALENT-MISSED-FF6B6B?style=for-the-badge&labelColor=000000"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚡ THE AI SOLUTION
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+## ⚡ THE SOLUTION ⚡
+
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="450">
+
+<br/>
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#764ba2','lineColor':'#667eea','secondaryColor':'#764ba2','tertiaryColor':'#f093fb','fontSize':'18px'}}}%%
 graph LR
-    A[📄 Upload Resumes] --> B[🧠 NLP Analysis]
-    B --> C[📊 Skill Extraction]
-    C --> D[🎯 Job Matching]
-    D --> E{Match Score}
-    E -->|High| F[✅ Shortlist]
-    E -->|Low| G[❌ Reject]
-    F --> H[🎉 Interview Ready!]
+    A[📄 Upload PDFs] ==> B[🤖 AI Analysis]
+    B ==> C[🎯 Smart Matching]
+    C ==> D[📊 Ranked Results]
+    D ==> E[🎉 Hire Fast!]
     
-    style A fill:#667EEA,color:#fff
-    style B fill:#764BA2,color:#fff
-    style C fill:#F093FB,color:#000
-    style D fill:#667EEA,color:#fff
-    style F fill:#00D9FF,color:#fff
-    style H fill:#00FF87,color:#000
+    style A fill:#667eea,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#764ba2,stroke:#fff,stroke-width:3px,color:#fff
+    style C fill:#f093fb,stroke:#764ba2,stroke-width:3px,color:#000
+    style D fill:#764ba2,stroke:#fff,stroke-width:3px,color:#fff
+    style E fill:#00ff87,stroke:#fff,stroke-width:3px,color:#000
 ```
-
-### 🎯 How It Works
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🔥 FEATURES 🔥
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
+
+</div>
+
+<br/>
+
 <table>
 <tr>
-<td width="20%" align="center">
-<img src="https://img.icons8.com/clouds/100/upload.png" width="80"/>
-<br><b>STEP 1</b><br>
-Upload PDFs
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🧠-AI_SKILL_EXTRACTION-667EEA?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<b>Automatically detects 100+ skills</b>
 </td>
-<td width="20%" align="center">
-<img src="https://img.icons8.com/clouds/100/parse-from-clipboard.png" width="80"/>
-<br><b>STEP 2</b><br>
-Parse Text
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/⚡-LIGHTNING_FAST-764BA2?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<b>Process 100 resumes in 10 seconds</b>
 </td>
-<td width="20%" align="center">
-<img src="https://img.icons8.com/clouds/100/artificial-intelligence.png" width="80"/>
-<br><b>STEP 3</b><br>
-AI Analysis
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce6ec1370.gif" width="400"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🎯-95%25_ACCURACY-F093FB?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<b>Smart matching algorithm</b>
 </td>
-<td width="20%" align="center">
-<img src="https://img.icons8.com/clouds/100/compare.png" width="80"/>
-<br><b>STEP 4</b><br>
-Match Jobs
-</td>
-<td width="20%" align="center">
-<img src="https://img.icons8.com/clouds/100/trophy.png" width="80"/>
-<br><b>STEP 5</b><br>
-Rank Results
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1f73-bbd7-4878-83f6-762195b8d4d8.gif" width="400"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/📊-TOP_10_RANKING-667EEA?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<b>Instant candidate ranking</b>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🔥 KILLER FEATURES
-
 <div align="center">
 
-### 🎨 What Makes This Special?
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+## 📊 REAL IMPACT 📊
+
+<img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="350">
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 **Smart Matching**
-
-```python
-✓ Skill-based scoring
-✓ Experience matching
-✓ Education verification
-✓ Keyword optimization
-✓ Semantic similarity
-✓ Cultural fit analysis
-```
-
-</td>
-<td width="50%">
-
-### 📊 **Beautiful Reports**
-
-```python
-✓ PDF resume parsing
-✓ Match percentage scores
-✓ Skill gap analysis
-✓ Top 10 candidates
-✓ Export to CSV/JSON
-✓ Visual dashboards
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 REAL IMPACT
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Time_Saved-95%25-667EEA?style=for-the-badge&logo=clockify"/>
-<img src="https://img.shields.io/badge/Accuracy-95%25-764BA2?style=for-the-badge&logo=target"/>
-<img src="https://img.shields.io/badge/Cost_Down-80%25-F093FB?style=for-the-badge&logo=moneygram"/>
+<img src="https://img.shields.io/badge/⏱️_TIME_SAVED-95%25-00D9FF?style=for-the-badge&logo=clockify&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💰_COST_DOWN-80%25-00FF87?style=for-the-badge&logo=cash-app&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🎯_ACCURACY-95%25-667EEA?style=for-the-badge&logo=target&logoColor=white&labelColor=000000"/>
 
-<br><br>
+<br/><br/>
 
-| Metric | Manual Screening | With AI | You Save |
-|--------|-----------------|---------|----------|
-| ⏱️ **Time/Resume** | 3 minutes | 10 seconds | 🔥 **94% faster** |
-| 💰 **Cost/Hire** | $4,000 | $800 | 💎 **80% cheaper** |
-| 🎯 **Accuracy** | 75% | 95% | ✨ **+20 points** |
-| 😊 **Candidate Quality** | Good | Excellent | 🚀 **2x better** |
+| Metric | Before | After | Result |
+|--------|--------|-------|--------|
+| ⏰ **Time Per Resume** | 3 minutes | 10 seconds | 🔥 **18x Faster** |
+| 💵 **Cost Per Hire** | $4,000 | $800 | 💎 **80% Savings** |
+| 🎯 **Match Quality** | 75% | 95% | ✨ **+20 Points** |
+| 😊 **Hire Quality** | Good | Excellent | 🚀 **2x Better** |
 
 </div>
 
 ---
 
-## 🚀 QUICK START
-
 <div align="center">
 
-### Get Running in 2 Minutes! ⏱️
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+
+## 🚀 GET STARTED 🚀
+
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350">
 
 </div>
+
+<br/>
 
 <table>
 <tr>
 <td width="33%" align="center">
-
-### 🔽 **CLONE**
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/><br/>
+<h3>📥 CLONE</h3>
 
 ```bash
-git clone your-repo-url
+git clone repo-url
 cd resume-screening-ai
 ```
-
-<img src="https://img.icons8.com/clouds/100/download.png" width="60"/>
-
 </td>
 <td width="33%" align="center">
-
-### 📦 **SETUP**
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/><br/>
+<h3>📦 INSTALL</h3>
 
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_md
 ```
-
-<img src="https://img.icons8.com/clouds/100/installing-updates.png" width="60"/>
-
 </td>
 <td width="33%" align="center">
-
-### ▶️ **RUN**
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/><br/>
+<h3>▶️ RUN</h3>
 
 ```bash
 python main.py
 ```
-
-<img src="https://img.icons8.com/clouds/100/play.png" width="60"/>
-
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-### 🎉 Start Screening Resumes!
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300"/>
 
+### 🎉 That's It! Start Screening! 🎉
+
 </div>
 
 ---
 
-## 🛠️ TECH STACK
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🛠️ TECH STACK 🛠️
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" />
+
+<br/><br/>
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<br><b>Python 3.8+</b>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/><br/>
+<img src="https://img.shields.io/badge/Python-667EEA?style=for-the-badge&labelColor=000000"/>
 </td>
-<td align="center" width="100">
-<img src="https://spacy.io/images/logo.svg" width="50"/>
-<br><b>spaCy</b>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/><br/>
+<img src="https://img.shields.io/badge/spaCy-764BA2?style=for-the-badge&labelColor=000000"/>
 </td>
-<td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
-<br><b>Sklearn</b>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/><br/>
+<img src="https://img.shields.io/badge/sklearn-F093FB?style=for-the-badge&labelColor=000000"/>
 </td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<br><b>Pandas</b>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/><br/>
+<img src="https://img.shields.io/badge/Pandas-667EEA?style=for-the-badge&labelColor=000000"/>
 </td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-<br><b>NumPy</b>
-</td>
-<td align="center" width="100">
-<img src="https://www.pymupdf.io/en/latest/_static/pymupdf-logo.png" width="50"/>
-<br><b>PyMuPDF</b>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100"/><br/>
+<img src="https://img.shields.io/badge/PyMuPDF-764BA2?style=for-the-badge&labelColor=000000"/>
 </td>
 </tr>
 </table>
@@ -271,369 +255,131 @@ python main.py
 
 ---
 
-## 📊 MATCHING ALGORITHM
-
 <div align="center">
 
-### 🎯 How We Score Candidates
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-```
-╔═══════════════════════════════════════════╗
-║                                           ║
-║         SCORING BREAKDOWN                 ║
-║                                           ║
-║   Skills Match:         40%   📊         ║
-║   Experience Level:     25%   💼         ║
-║   Education:            15%   🎓         ║
-║   Keywords:             10%   🔑         ║
-║   Semantic Similarity:  10%   🧠         ║
-║                                           ║
-║   Total:               100%   ✅         ║
-║                                           ║
-╚═══════════════════════════════════════════╝
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+## 💼 PERFECT FOR 💼
 
 </div>
 
----
-
-## 💼 PERFECT FOR
+<br/>
 
 <table>
 <tr>
-<td width="50%">
-
-### 🏢 **Startups**
-
-<img src="https://img.icons8.com/clouds/100/rocket.png" width="80"/>
-
-- Limited HR budget
-- Fast hiring needs
-- Small team screening
-- Growth stage hiring
-
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100"/><br/><br/>
+<img src="https://img.shields.io/badge/STARTUPS-667EEA?style=for-the-badge&labelColor=000000"/><br/>
+Fast hiring
 </td>
-<td width="50%">
-
-### 🏭 **Enterprises**
-
-<img src="https://img.icons8.com/clouds/100/organization.png" width="80"/>
-
-- High volume hiring
-- Multiple departments
-- Consistency needed
-- Compliance tracking
-
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d4e31e-8f8d-4ae9-9e36-d3eb5c7e1f90.png" width="100"/><br/><br/>
+<img src="https://img.shields.io/badge/ENTERPRISES-764BA2?style=for-the-badge&labelColor=000000"/><br/>
+High volume
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤝 **Agencies**
-
-<img src="https://img.icons8.com/clouds/100/handshake.png" width="80"/>
-
-- Multiple clients
-- Various job types
-- Quick turnaround
-- Quality candidates
-
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab4f1c4300.png" width="100"/><br/><br/>
+<img src="https://img.shields.io/badge/AGENCIES-F093FB?style=for-the-badge&labelColor=000000"/><br/>
+Multiple clients
 </td>
-<td width="50%">
-
-### 💻 **Freelance Recruiters**
-
-<img src="https://img.icons8.com/clouds/100/user.png" width="80"/>
-
-- Work from anywhere
-- Low overhead costs
-- Scale your business
-- Competitive edge
-
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d95d17d.png" width="100"/><br/><br/>
+<img src="https://img.shields.io/badge/RECRUITERS-667EEA?style=for-the-badge&labelColor=000000"/><br/>
+Low overhead
 </td>
 </tr>
 </table>
 
 ---
 
-## 📂 PROJECT STRUCTURE
-
-```
-resume-screening-ai/
-│
-├── 📄 main.py                    # Main application
-├── 📄 resume_parser.py           # PDF text extraction
-├── 📄 skill_extractor.py         # NLP skill detection
-├── 📄 job_matcher.py             # Matching algorithm
-├── 📄 utils.py                   # Helper functions
-├── 📋 requirements.txt           # Dependencies
-├── 📝 README.md                  # This file
-├── 📜 LICENSE                    # MIT License
-├── 🤝 CONTRIBUTING.md            # Contribution guide
-├── 🔒 .gitignore                 # Git ignore
-├── 📘 GITHUB_SETUP.md            # Setup instructions
-│
-├── 📁 data/
-│   ├── resumes/                  # Input resumes (PDF)
-│   └── job_descriptions/         # Job postings
-│
-├── 📁 output/
-│   ├── matched_candidates.csv    # Results
-│   └── reports/                  # Detailed analysis
-│
-└── 📁 models/
-    └── skills_database.json      # Skill taxonomy
-```
-
----
-
-## 🎓 HOW IT ANALYZES
-
 <div align="center">
 
-### 📋 What the AI Looks For
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
+## 📈 PROJECT STATS 📈
 
-</div>
+<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="300">
 
-<table>
-<tr>
-<td>
+<br/>
 
-**💼 Experience**
-- Years worked
-- Job titles
-- Companies
-- Industries
-
-</td>
-<td>
-
-**🎯 Skills**
-- Technical skills
-- Soft skills
-- Tools/Software
-- Certifications
-
-</td>
-<td>
-
-**🎓 Education**
-- Degrees
-- Universities
-- Majors/Fields
-- GPA (optional)
-
-</td>
-<td>
-
-**🔑 Keywords**
-- Job-specific terms
-- Action verbs
-- Achievements
-- Projects
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 USAGE EXAMPLE
-
-```python
-# Example: Screen 100 resumes for Software Engineer role
-
-Job Description:
-├── Role: Senior Python Developer
-├── Skills: Python, Django, AWS, Docker
-├── Experience: 5+ years
-└── Education: CS degree preferred
-
-🤖 AI Processing:
-├── Parsed: 100 resumes (8 seconds)
-├── Matched: 87 candidates
-├── Top 10: 95%+ match score
-└── Time Saved: 4.5 hours
-
-💡 Top Candidate:
-├── Name: [Redacted]
-├── Match Score: 98%
-├── Skills: Python, Django, AWS, Docker, K8s
-├── Experience: 6 years
-└── Recommendation: STRONG HIRE
-```
-
----
-
-## 🌟 WHY CHOOSE THIS?
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/source-code.png" width="70"/>
-<h3>Clean Code</h3>
-Easy to read<br>& understand
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/speed.png" width="70"/>
-<h3>Lightning Fast</h3>
-Process 100 resumes<br>in 10 seconds
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/settings.png" width="70"/>
-<h3>Customizable</h3>
-Add your own<br>criteria
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/no-money.png" width="70"/>
-<h3>Free Forever</h3>
-Open source<br>MIT license
-</td>
-</tr>
-</table>
-
----
-
-## 🎨 SAMPLE OUTPUT
-
-<div align="center">
-
-### 📊 Match Results Dashboard
-
-```
-TOP 10 CANDIDATES FOR: Senior Python Developer
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Rank  Candidate         Match    Skills    Experience
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  1   John Smith         98%      9/10      6 years    
-  2   Sarah Johnson      96%      9/10      5 years    
-  3   Mike Chen          94%      8/10      7 years    
-  4   Emily Brown        93%      8/10      5 years    
-  5   David Lee          92%      8/10      6 years    
-  6   Lisa Anderson      91%      7/10      5 years    
-  7   Tom Wilson         90%      8/10      4 years    
-  8   Anna Martinez      89%      7/10      6 years    
-  9   Chris Taylor       88%      7/10      5 years    
- 10   Jessica White      87%      7/10      5 years    
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=VIEWS&color=667eea&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/stars/yourusername/resume-screening-ai?style=for-the-badge&logo=github&logoColor=white&color=764ba2&labelColor=000000" alt="stars" />
+<img src="https://img.shields.io/github/forks/yourusername/resume-screening-ai?style=for-the-badge&logo=github&logoColor=white&color=f093fb&labelColor=000000" alt="forks" />
 
 </div>
 
 ---
 
-## 🚧 ROADMAP
-
 <div align="center">
 
-```mermaid
-timeline
-    title Feature Roadmap
-    2025 Q1 : Launch v1.0 : PDF Parsing : Basic Matching
-    2025 Q2 : Video Resume : Interview Scheduler : Email Integration
-    2025 Q3 : Web Dashboard : Multi-language : API Access
-    2025 Q4 : Mobile App : AI Interviews : LinkedIn Sync
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-<table>
-<tr>
-<td width="50%">
+## 🤝 CONTRIBUTE 🤝
 
-### ✅ **Version 1.0**
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
 
-- ✓ PDF resume parsing
-- ✓ Skill extraction
-- ✓ Job matching algorithm
-- ✓ CSV export
-- ✓ Top 10 ranking
-- ✓ Match scoring
+<br/>
 
-</td>
-<td width="50%">
+[![Contribute](https://img.shields.io/badge/Read-CONTRIBUTING.md-667EEA?style=for-the-badge&labelColor=000000)](CONTRIBUTING.md)
 
-### 🔜 **Coming Soon**
-
-- ⏳ Web interface
-- ⏳ Video resume analysis
-- ⏳ Interview scheduling
-- ⏳ Email automation
-- ⏳ Chrome extension
-- ⏳ API endpoints
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 CONTRIBUTE
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
-
-### Help Make Hiring Better!
-
-[![Contribute](https://img.shields.io/badge/Read-CONTRIBUTING.md-667EEA?style=for-the-badge)](CONTRIBUTING.md)
-
-</div>
+<br/>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/80/bug.png"/>
-<br><b>Fix Bugs</b>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/><br/>
+<b>Report Bugs</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/80/idea.png"/>
-<br><b>New Ideas</b>
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80"/><br/>
+<b>New Features</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/80/code.png"/>
-<br><b>Better Code</b>
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"/><br/>
+<b>Improve Code</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/80/documentation.png"/>
-<br><b>Documentation</b>
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d95d17d.png" width="80"/><br/>
+<b>Better Docs</b>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 💖 SUPPORT
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Love+This+Project%3F;Star+It+on+GitHub!+⭐;Every+Star+Helps!+💫" alt="Support" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<br>
+## 💖 SUPPORT 💖
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Love+This%3F;⭐+Star+the+Repo!;Every+Star+Matters!+💫" alt="Support" />
+
+<br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/100/star.png" width="80"/>
-<h3>⭐ Star Repo</h3>
-Show appreciation!
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d4e31e-8f8d-4ae9-9e36-d3eb5c7e1f90.png" width="100"/><br/><br/>
+<h3>⭐ STAR IT</h3>
+Show some love!
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/100/share.png" width="80"/>
-<h3>📢 Share</h3>
-Tell your network!
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/100/coffee-to-go.png" width="80"/>
-<h3>☕ Buy Coffee</h3>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/><br/><br/>
+<h3>☕ BUY COFFEE</h3>
 <b>PayPal: malam0007</b>
 </td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/><br/><br/>
+<h3>📱 UPI (INDIA)</h3>
+<b>alammodassir007@okicici</b>
+</td>
 </tr>
 </table>
 
@@ -641,11 +387,15 @@ Tell your network!
 
 ---
 
-## 📜 LICENSE
-
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-MIT-667EEA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📜 LICENSE 📜
+
+<img src="https://img.shields.io/badge/LICENSE-MIT-667EEA?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000"/>
+
+<br/>
 
 **Free for Personal & Commercial Use**
 
@@ -653,44 +403,37 @@ Tell your network!
 
 ---
 
-## 🙏 THANKS TO
-
 <div align="center">
 
-Built with ❤️ by developers, for recruiters
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 
-**Powered By:**
-- 🐍 Python community
-- 📚 spaCy NLP team
-- 🤖 Scikit-learn contributors
-- 💡 Open source heroes
+## 🌐 CONNECT 🌐
 
-</div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"/>
 
----
+<br/>
 
-## 📬 CONTACT
-
-<div align="center">
-
-<a href="https://github.com/YourUsername">
-  <img src="https://img.shields.io/badge/GitHub-Follow-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-Follow-667EEA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
-<a href="https://linkedin.com/in/YourProfile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-764BA2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-764BA2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-F093FB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-F093FB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-Follow-667EEA?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Thanks+for+Visiting!+🎉;Find+Better+Talent+Faster!+🚀;Happy+Hiring!+💼" alt="Footer" />
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer"/>
 
 </div>
