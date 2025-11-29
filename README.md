@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![ML](https://img.shields.io/badge/ML-scikit--learn-667eea?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![MIT](https://img.shields.io/badge/License-MIT-764ba2?style=for-the-badge)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![License MIT](https://img.shields.io/badge/License-MIT-764ba2?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -22,24 +22,22 @@
 
 </div>
 
-<br/>
-
 <table>
 <tr>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
 <h3>📚 500+ Resumes</h3>
-Process instantly
+Process in minutes
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
 <h3>⚡ 99% Faster</h3>
-Than manual work
+Than manual screening
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
 <h3>🎯 95% Accurate</h3>
-AI matching
+AI-powered matching
 </td>
 </tr>
 </table>
@@ -101,10 +99,7 @@ AI matching
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
 
-<br/>
-
-**🤖 Smart AI**
-
+### 🤖 Smart AI
 ✓ NLP Processing  
 ✓ TF-IDF Features  
 ✓ Random Forest  
@@ -115,10 +110,7 @@ AI matching
 
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
 
-<br/>
-
-**📊 Beautiful Visuals**
-
+### 📊 Beautiful Charts
 ✓ Distribution Graphs  
 ✓ Confusion Matrix  
 ✓ Model Comparison  
@@ -144,11 +136,11 @@ AI matching
 
 <div align="center">
 
-| Before | After | Gain |
-|:------:|:-----:|:----:|
-| ⏱️ 15 min | ⚡ 5 sec | 🔥 **99% faster** |
-| 💰 $4K | 💵 $1.6K | 💎 **60% less** |
-| 🎯 65% | ✨ 95% | 🚀 **+30%** |
+| Before AI | After AI | Result |
+|:---------:|:--------:|:------:|
+| ⏱️ 15 min/resume | ⚡ 5 sec | 🔥 **99% faster** |
+| 💰 $4,000/hire | 💵 $1,600 | 💎 **60% cheaper** |
+| 🎯 65% accuracy | ✨ 95% | 🚀 **+30%** |
 
 </div>
 
@@ -206,6 +198,7 @@ AI matching
 ```bash
 # Clone
 git clone https://github.com/alam025/resume-screening-ai.git
+cd resume-screening-ai
 
 # Install
 pip install -r requirements.txt
@@ -236,7 +229,7 @@ python resume_screening_ai.py
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" />
 
 <br/><br/>
 
@@ -255,81 +248,26 @@ python resume_screening_ai.py
 
 ## DEMO
 
-</div>
-
-<br/>
-
-```python
-Input: "Python ML Engineer"
-
-Output:
-🎯 Data Science
-✨ 96.5% confidence
-```
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="300"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="400">
-
-## SAMPLE OUTPUTS
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<br/>
-
 <table>
 <tr>
-<td align="center">
-<img src="https://via.placeholder.com/500x300/667eea/FFFFFF?text=Resume+Distribution" width="500"/>
-<br/><b>Distribution Charts</b>
-</td>
-<td align="center">
-<img src="https://via.placeholder.com/500x300/764ba2/FFFFFF?text=Confusion+Matrix" width="500"/>
-<br/><b>Model Performance</b>
-</td>
-</tr>
-</table>
+<td width="50%">
 
----
+### ✅ **v1.0 (Now)**
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-
-## ROADMAP
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**✅ v1.0**
-
-✓ Text Classification  
-✓ 5 Categories  
-✓ 95% Accuracy  
+- ✓ Text classification
+- ✓ 5 job categories
+- ✓ 95% accuracy
+- ✓ Beautiful charts
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-**🔜 v2.0**
+### 🔜 **v2.0 (Soon)**
 
-⏳ PDF Support  
-⏳ 10+ Categories  
-⏳ Web Interface  
+- ⏳ PDF parsing
+- ⏳ 10+ categories
+- ⏳ Web interface
+- ⏳ API endpoint
 
 </td>
 </tr>
@@ -337,21 +275,17 @@ Output:
 
 ---
 
+## 🤝 CONTRIBUTE
+
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-## CONTRIBUTE
-
-<br/>
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
 
 <br/><br/>
 
-**PRs welcome!**
+**Found a bug? Have an idea? PRs welcome!**
 
-[![Issues](https://img.shields.io/badge/Open-Issue-667eea?style=for-the-badge&logo=github)](https://github.com/alam025/resume-screening-ai/issues)
+[![GitHub Issues](https://img.shields.io/badge/Open-Issue-667eea?style=for-the-badge&logo=github)](https://github.com/alam025/resume-screening-ai/issues)
 
 </div>
 
@@ -362,6 +296,10 @@ Output:
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
 
 ## SUPPORT
+
+<br/>
+
+**Like the project? Show some love!**
 
 <br/>
 
