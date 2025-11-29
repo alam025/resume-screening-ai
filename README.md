@@ -2,6 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:39FF14,50:00FF41,100:00CC33&height=200&section=header&text=RESUME%20SCREENING%20AI&fontSize=60&fontColor=000&animation=blinking&fontAlignY=55)
 
+![GitHub stars](https://img.shields.io/github/stars/alam025/resume-screening-ai?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/alam025/resume-screening-ai?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/alam025/resume-screening-ai?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/alam025/resume-screening-ai?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/alam025/resume-screening-ai?style=for-the-badge)
+
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
