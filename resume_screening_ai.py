@@ -178,6 +178,7 @@ print("✓ Saved: confusion_matrix.png")
 print()
 
 # Model comparison
+
 models = ['Naive Bayes', 'Random Forest']
 scores = [nb_acc * 100, rf_acc * 100]
 
