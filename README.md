@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:00CED1,50:20B2AA,100:48D1CC&height=200&section=header&text=RESUME%20SCREENING%20AI&fontSize=60&fontColor=fff&animation=blinking&fontAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:39FF14,50:00FF41,100:00CC33&height=200&section=header&text=RESUME%20SCREENING%20AI&fontSize=60&fontColor=000&animation=blinking&fontAlignY=55)
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
@@ -17,7 +17,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00CED1&center=true&vCenter=true&width=700&lines=Screen+1000%2B+Resumes+Instantly;95%25+AI+Accuracy;Save+90%25+Hiring+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=39FF14&center=true&vCenter=true&width=700&lines=Screen+1000%2B+Resumes+Instantly;95%25+AI+Accuracy;Save+90%25+Hiring+Time" alt="Typing SVG" />
 
 <br>
 
@@ -32,9 +32,9 @@
 
 <br>
 
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-00CED1?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-20B2AA?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License MIT](https://img.shields.io/badge/License-MIT-48D1CC?style=for-the-badge)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-39FF14?style=for-the-badge&logo=python&logoColor=black)](https://python.org)
+[![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-00FF41?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://scikit-learn.org)
+[![License MIT](https://img.shields.io/badge/License-MIT-00CC33?style=for-the-badge&logoColor=black)](LICENSE)
 
 </div>
 
@@ -74,7 +74,7 @@ HR receives <b>500+</b> resumes per job
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
 
 </div>
 
@@ -88,11 +88,11 @@ graph LR
     D --> E[✅ Category]
     E --> F[🎉 Hired!]
     
-    style A fill:#00CED1,color:#fff
-    style B fill:#20B2AA,color:#fff
-    style C fill:#48D1CC,color:#fff
-    style D fill:#00CED1,color:#fff
-    style E fill:#48D1CC,color:#fff
+    style A fill:#39FF14,color:#000
+    style B fill:#00FF41,color:#000
+    style C fill:#00CC33,color:#000
+    style D fill:#39FF14,color:#000
+    style E fill:#00CC33,color:#000
     style F fill:#52fa5a,color:#000
 ```
 
@@ -190,9 +190,9 @@ graph LR
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Time_Saved-90%25-00CED1?style=for-the-badge&logo=clockify"/>
-<img src="https://img.shields.io/badge/Cost_Cut-60%25-20B2AA?style=for-the-badge&logo=cash-app"/>
-<img src="https://img.shields.io/badge/Accuracy-95%25-48D1CC?style=for-the-badge&logo=target"/>
+<img src="https://img.shields.io/badge/Time_Saved-90%25-39FF14?style=for-the-badge&logo=clockify&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cost_Cut-60%25-00FF41?style=for-the-badge&logo=cash-app&logoColor=black"/>
+<img src="https://img.shields.io/badge/Accuracy-95%25-00CC33?style=for-the-badge&logo=target&logoColor=black"/>
 
 <br><br>
 
@@ -452,10 +452,10 @@ resume-screening-ai/
 <br><br>
 
 ### Resume Distribution
-<img src="https://via.placeholder.com/600x400/00CED1/FFFFFF?text=Category+Distribution" width="600"/>
+<img src="https://via.placeholder.com/600x400/39FF14/000000?text=Category+Distribution" width="600"/>
 
 ### Confusion Matrix
-<img src="https://via.placeholder.com/600x400/20B2AA/FFFFFF?text=Model+Accuracy" width="600"/>
+<img src="https://via.placeholder.com/600x400/00FF41/000000?text=Model+Accuracy" width="600"/>
 
 </div>
 
@@ -541,7 +541,7 @@ resume-screening-ai/
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-MIT-00CED1?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-39FF14?style=for-the-badge&logo=opensourceinitiative&logoColor=black)](LICENSE)
 
 **Free for Commercial & Personal Use**
 
@@ -558,21 +558,21 @@ resume-screening-ai/
 <br><br>
 
 <a href="https://github.com/alam025">
-  <img src="https://img.shields.io/badge/GitHub-Follow-00CED1?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 <a href="https://linkedin.com/in/alammodassir">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-20B2AA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="mailto:alammodassir007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-48D1CC?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-00CC33?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=Thanks+for+Visiting!+🚀;Hire+Smarter!+💼;Happy+Screening!+🎯" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Thanks+for+Visiting!+🚀;Hire+Smarter!+💼;Happy+Screening!+🎯" alt="Footer" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:20B2AA,100:48D1CC&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FF41,100:00CC33&height=120&section=footer"/>
 
 </div>
