@@ -567,6 +567,7 @@ resume-screening-ai/
   <img src="https://img.shields.io/badge/Email-Contact-00CC33?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
+
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Thanks+for+Visiting!+🚀;Hire+Smarter!+💼;Happy+Screening!+🎯" alt="Footer" />
