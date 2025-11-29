@@ -130,6 +130,7 @@ print(f"✓ Test set: {X_test.shape[0]} samples")
 print()
 
 # Train models
+
 print("Training models...")
 
 nb_model = MultinomialNB()
