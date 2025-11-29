@@ -105,6 +105,7 @@ print(f"✓ Features extracted: {X.shape}")
 print()
 
 # Top keywords per category
+
 feature_names = tfidf.get_feature_names_out()
 keywords_by_category = {}
 
