@@ -202,6 +202,7 @@ print("✓ Saved: model_comparison.png")
 print()
 
 # Feature importance (if Random Forest wins)
+
 if isinstance(best_model, RandomForestClassifier):
     importances = rf_model.feature_importances_
     indices = np.argsort(importances)[-15:][::-1]
